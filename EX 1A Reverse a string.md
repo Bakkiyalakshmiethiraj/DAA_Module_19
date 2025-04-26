@@ -1,8 +1,6 @@
 # EX 1A Reverse a String
 ## DATE:
-## AIM:
-To Write a Program to Create a recursive function to reverse a string
-
+## AIM:To Write a Program to Create a recursive function to reverse a string
 ## Algorithm
 1. Take input string s.
 2. If length of s is 0 or 1, return s (base case).
@@ -14,8 +12,8 @@ To Write a Program to Create a recursive function to reverse a string
 ```
 /*
 Program to implement Reverse a String
-Developed by: Hemapriya R
-Register Number: 212222040055
+Developed by: Bakkiyalakshmi E
+Register Number: 212223220012
 */
 ```
 ```
